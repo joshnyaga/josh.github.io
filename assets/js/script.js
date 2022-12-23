@@ -39,7 +39,7 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("dBHqzIYxDGA-raRaV76lG");
+        emailjs.init("Y0uhsyII3q_rRebiz");
 
         emailjs.sendForm('service_sxqyt8d', 'template_mtnlqu6', '#contact-form')
             .then(function (response) {
@@ -48,7 +48,7 @@ $(document).ready(function () {
                 alert("Form Submitted Successfully");
             }, function (error) {
                 console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
+                alert(error.text);
             });
         event.preventDefault();
     });
@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | Joshua Kithinji";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
