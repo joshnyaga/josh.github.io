@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Mustard",
+    "desc": "Assignment help center.",
+    "image": "mustard",
+    "category": "mern",
+    "links": {
+      "view": "https://mustard-seed.vercel.app/",
+      "code": "https://github.com/joshnyaga/mustard"
+    }
+  },
+  {
+    "name": "Nolojia",
+    "desc": "A tutoring web application for teaching coding",
+    "image": "nolojia",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/joshnyaga/nolojia"
+    }
+  },
+  {
+    "name": "Patwa website",
+    "desc": "A landing page for Patwa - A lost and found center",
+    "image": "patwa",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/joshnyaga/patwa",
+      "code": "https://github.com/joshnyaga/patwa"
+    }
+  },
+  {
+    "name": "Moviz-Android app",
+    "desc": "Get movie information. It uses the tmdb movie database",
+    "image": "moviz",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/joshnyaga/moviz",
+      "code": "https://github.com/joshnyaga/moviz"
+    }
+  },
+  {
+    "name": "ShopOkoa",
+    "desc": "ShopOkoa - BuyNow and Pay Later for all your essential shopping needs with ShopOkoa<",
+    "image": "shopokoa",
+    "category": "basicweb",
+    "links": {
+      "view": "https://shopokoa.com",
+      "code": "https://github.com/joshnyaga/shopokoa"
+    }
+  },
+  {
+    "name": "Gym Management System",
+    "desc": "This is a project whereby gym instructors interact with their students allowing them to book for sessions and paying through mpesa Watch this tutorial on youtube.",
+    "image": "gym",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/joshnyaga/Gym-Management-System",
+      "code": "https://github.com/joshnyaga/Gym-Management-System"
+    }
+  },
+  {
+    "name": "Grocery",
+    "desc": "This is a grocery app made with php ajax and mysql. It is a grocery web app for managing the inventory.",
+    "image": "grocery",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/joshnyaga/PHP-Grocery",
+      "code": "https://github.com/joshnyaga/PHP-Grocery"
+    }
+  },
+  {
+    "name": "Travel tours",
+    "desc": "A full stack project where people share places they have been to with others",
+    "image": "tours",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/joshnyaga/tour",
+      "code": "https://github.com/joshnyaga/tour"
+    }
+  },
+  {
+    "name": "Appointment Setter - Java",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "appointments",
+    "category": "Java",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "A react login page",
+    "desc": "A  material design made using react and in a material design",
+    "image": "login",
+    "category": "react",
+    "links": {
+      "view": "https://github.com/joshnyaga/Material-design-login-with-react",
+      "code": "https://github.com/joshnyaga/Material-design-login-with-react"
+    }
+  }
+  
+]
