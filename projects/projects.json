@@ -9,13 +9,23 @@
       "code": "https://github.com/joshnyaga/mustard"
     }
   },
+    {
+    "name": "Gifto",
+    "desc": "A web app to add your preferred gifts for your friends to know what you like.",
+    "image": "gifto",
+    "category": "mern",
+    "links": {
+      "view": "https://gifto-frontend-two.vercel.app/",
+      "code": "https://github.com/joshnyaga/gifto-frontend"
+    }
+  },
   {
     "name": "Nolojia",
     "desc": "A tutoring web application for teaching coding",
     "image": "nolojia",
     "category": "mern",
     "links": {
-      "view": "https://www.nolojia.com/",
+      "view": "https://nolojia-frontend.pages.dev/login",
       "code": "https://github.com/joshnyaga/nolojia-frontend"
     }
   },
@@ -30,13 +40,23 @@
     }
   },
   {
-    "name": "Moviz-Android app",
-    "desc": "Get movie information. It uses the tmdb movie database",
-    "image": "moviz",
+    "name": "Fuelytics",
+    "desc": "a powerful cloud-based retail performance tool designed specifically for oil marketers in Africa. ",
+    "image": "fuelytics",
+    "category": "Web App/Mobile",
+    "links": {
+      "view": "https://www.fuelytic.org",
+      "code": "https://www.fuelytic.org"
+    }
+  },
+  {
+    "name": "Smart Budget",
+    "desc": "Smart budget is a mobile app that helps users in keep track of their daily expenditure.",
+    "image": "smart-budget",
     "category": "android",
     "links": {
-      "view": "https://github.com/joshnyaga/moviz",
-      "code": "https://github.com/joshnyaga/moviz"
+      "view": "https://github.com/joshnyaga/smart-budget",
+      "code": "https://github.com/joshnyaga/smart-budget"
     }
   },
   {
@@ -70,13 +90,13 @@
     }
   },
   {
-    "name": "Travel tours",
-    "desc": "A full stack project where people share places they have been to with others",
-    "image": "tours",
-    "category": "mern",
+    "name": "Pharmacy Management System",
+    "desc": "A simple Pharmacy Management System. It allows medicine stock control with a slot for pharmacist to keep record of the patients",
+    "image": "pharmacy",
+    "category": "Node Js",
     "links": {
-      "view": "https://github.com/joshnyaga/tour",
-      "code": "https://github.com/joshnyaga/tour"
+      "view": "https://github.com/joshnyaga/pms",
+      "code": "https://github.com/joshnyaga/pms"
     }
   },
   {
@@ -85,8 +105,8 @@
     "image": "appointments",
     "category": "Java",
     "links": {
-      "view": "https://github.com/joshnyaga/appointment-setter",
-      "code": "https://github.com/joshnyaga/appointment-setter"
+      "view": "https://github.com/joshnyaga/Appointement-setter-app",
+      "code": "https://github.com/joshnyaga/Appointement-setter-app"
     }
   },
   {
